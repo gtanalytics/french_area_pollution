@@ -10,8 +10,7 @@ download.file("http://www.pollutionsindustrielles.ecologie.gouv.fr/IREP/download
 ```
 ### Représentation des zones à risques sur une carte avec utilisation de ggplot2
 
-![zones polluées](/images/zones_polluees.png)
-Format: ![on wordpress](http://sciencendata.wordpress.com)
+Voir sur [wordpress](http://sciencendata.wordpress.com)
 
 ### Code to shape data
 Mise en forme des données et sta
